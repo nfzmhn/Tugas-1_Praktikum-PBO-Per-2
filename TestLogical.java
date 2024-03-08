@@ -27,3 +27,4 @@ public class TestLogical {
     System.out.println("false || false: " + (c || d));
   }
 }
+//Representasi dari Logika Proposisi//

@@ -8,3 +8,4 @@ public class PrimitifConversion {
     System.out.println("Nilai d: " + d);
   }
 }
+//Contoh mengkonversi nilai dari suatu tipe data ke tipe data lainnya.

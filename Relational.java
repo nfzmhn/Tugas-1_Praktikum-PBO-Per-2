@@ -23,3 +23,4 @@ public class Relational {
     System.out.println("\tGreater than: 5 > NaN \t " + (x > (f0 / f2)));
   }
 }
+//Contoh penggunaan operator relasional.

@@ -49,3 +49,6 @@ public class PassTest {
     date.print();
   }
 }
+//Program asalnya tidak berjalan karena tidak adanya kelas MyDate, yang menyebabkan beberapa function tidak berjalan karena tidak
+//dideklarasi seperti print() dan setDay(). Perbaikan yang saya lakukan adalah menambahkan kelas MyDate dengan atribut day, month, year,
+//konstruktor MyDate, setter untuk Day dan function print untuk menampilkan.

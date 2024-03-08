@@ -11,3 +11,6 @@ public class Shift {
     //unisigned right shift menggeser semua bit dalam nilai x ke kanan 1x
   }
 }
+//Contoh bitwise shift, line pertama menggeser bit ke kanan 2x, yang dari 0000 0111 menjadi 0000 0001 = 1
+//Lalu yang kedua menggeser ke kiri 1x menjadi 0000 1110 = 14
+//Lalu yang ketiga adalah unsigned right shift yang menggeser semua bit dalam nilai x ke kanan satu kali menjadi 0000 0011 = 3

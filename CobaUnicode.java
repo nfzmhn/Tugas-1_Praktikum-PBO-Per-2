@@ -12,3 +12,4 @@ public class CobaUnicode {
     System.out.println("kata: " + kata);
   }
 }
+//Representasi character menggunakan unicode.

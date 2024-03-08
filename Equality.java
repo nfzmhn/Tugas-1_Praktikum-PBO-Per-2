@@ -27,3 +27,4 @@ public class Equality {
     );
   }
 }
+//Contoh penggunaan operator equality (sama dengan dan tidak sama dengan)

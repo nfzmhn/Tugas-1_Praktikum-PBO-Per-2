@@ -12,3 +12,4 @@ public class Octal {
     System.out.println("Octal nine = " + nine);
   }
 }
+//Contoh penggunaan bilangan oktal (berbasis delapan).

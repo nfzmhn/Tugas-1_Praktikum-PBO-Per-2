@@ -1,13 +1,13 @@
 public class Assign {
 
   public static void main(String[] args) {
-    // Declare integer variables
+    // Deklarasi int
     int x, y;
 
-    // Declare and assign floating point
+    // Deklarasi float
     float z = 3.414f;
 
-    // Declare and assign double
+    // Deklarasi double
     double w = 3.1415;
 
     // Declare and assign boolean
@@ -32,12 +32,10 @@ public class Assign {
     x = 6;
     y = 1000;
 
-    // Use the values of x and y in a print statement
+    // print value x dan y
     System.out.println("Value of x: " + x);
     System.out.println("Value of y: " + y);
 
-    // Use the values of z, w, truth, c, str, and str1 in some way
-    // For example, print them or perform operations with them
     System.out.println("Value of z: " + z);
     System.out.println("Value of w: " + w);
     System.out.println("Value of truth: " + truth);
@@ -46,3 +44,4 @@ public class Assign {
     System.out.println("Value of str1: " + str1);
   }
 }
+//mendeklarasi menginisialisasi tipe data

@@ -19,3 +19,4 @@ public class DefValue {
     System.out.println("Default char: " + val.c);
   }
 }
+//Menerapkan nilai default untuk tipe-tipe data.
